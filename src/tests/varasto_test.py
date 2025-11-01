@@ -66,3 +66,4 @@ class TestVarasto(unittest.TestCase):
         varasto=Varasto(10, -1)
         self.assertAlmostEqual(varasto.saldo, 0)
 
+
