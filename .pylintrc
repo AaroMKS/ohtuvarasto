@@ -22,8 +22,9 @@ max-line-length=80
 indent-string="    "
 max-statements=10
 docstring-min-length=10
-max-args=8
+
 [REFACTORING]
 max-nested-blocks=2
 
 [DESIGN]
+max-returns=5
